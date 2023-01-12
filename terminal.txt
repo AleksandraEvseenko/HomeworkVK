@@ -1,0 +1,6 @@
+1)Посмотреть где я - pwd
+2)Создать папку - mkdir folder_name
+3)Перейти в папку - cd folder_name
+4)Просмотреть содержимое файла - cat folder_name
+5)Создать файл - touch folder_name / cat >> folder_name
+6)Просмотреть содержимое файла - cat folder_name
